@@ -1,2 +1,2 @@
 # pivot
-Social powered ed-tech
+social powered ed-tech
